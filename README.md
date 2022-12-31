@@ -5,6 +5,11 @@ It will begin by asking you what universe/genre you would like the game to be se
 
 Some example universes/genres:
 
+Fantasy\
+Science fiction\
+Historical fiction\
+Mystery\
+Romance\
 the Aliens movie franchise\
 Star Wars the Clone Wars\
 Melrose Place\
