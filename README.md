@@ -5,11 +5,11 @@ It will begin by asking you what universe/genre you would like the game to be se
 
 Some example universes/genres:
 
-the Aliens movie franchise
-Star Wars the Clone Wars
-Melrose Place
-1980s TV drama Dallas
-The movie Office Space
+the Aliens movie franchise\
+Star Wars the Clone Wars\
+Melrose Place\
+1980s TV drama Dallas\
+The movie Office Space\
 BASICALLY ANYTHING!!
 
 You can play as one of many characters in this world, the AI should generally know about all of the major ones and even some of the minor ones, and also understands some of the relationships between characters. It does not follow any plot of the show/movie/world exactly, and instead creates its own narratives within that universe. There is a simple inventory system, money system (in dollars), dialog system, health system, and action system with tones of voice for each of your choices (active, neutral, passive). Play as whoever you want, however you want! It will even use turn based combat when appropriate.
